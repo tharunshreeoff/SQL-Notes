@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=SQL+Interview+Ready+Guide;From+Basics+to+Advanced;100%25+Interview+Focused;Data+Analyst+%7C+Data+Scientist+Preparation" />
 
+------------
+
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,dynamodb" width="260"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60"/>
