@@ -6,6 +6,12 @@
 
 ---
 
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,dynamodb" width="260"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60"/>
+
+---
+
 ![SQL](https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
